@@ -79,7 +79,7 @@ resolved VPN and Office issues, and supported end users in a global environment.
     View Profile
   </a>
 </p>
-<a href="/portfolio/Vishnu_Vardhan_Resume.pdf" download>
+<a href="/Vishnu_Vardhan_Resume.pdf" download>
   <button>📄 Download Resume</button>
 </a>
     </div>
