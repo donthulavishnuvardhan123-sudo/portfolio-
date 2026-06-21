@@ -30,9 +30,6 @@ function App() {
   <li>Service Desk Support</li>
   <li>SolarWinds</li>
 </ul>
-<h2>Experience</h2>
-
-<p><strong>Technical Analyst – Tech Mahindra</strong></p>
 
 <h2>Experience</h2>
 
