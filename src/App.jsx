@@ -34,12 +34,54 @@ function App() {
 
 <p><strong>Technical Analyst – Tech Mahindra</strong></p>
 
+<h2>Experience</h2>
+
+<h3>Service Desk Specialist – Tech Mahindra</h3>
+
+<p>
+  Jun 2021 – Present | Hyderabad, Telangana, India
+</p>
+
 <ul>
-  <li>Provided IT Service Desk support to end users.</li>
-  <li>Managed user accounts using Active Directory.</li>
-  <li>Supported Office 365 and VPN-related issues.</li>
-  <li>Monitored servers and network devices using SolarWinds.</li>
-  <li>Assisted users in Spanish and English.</li>
+  <li>
+    Provided first-level IT support to end users via phone, email, and chat.
+  </li>
+
+  <li>
+    Diagnosed and resolved software and network issues efficiently.
+  </li>
+
+  <li>
+    Managed user accounts, passwords, and access permissions using Active Directory.
+  </li>
+
+  <li>
+    Logged, tracked, and resolved support tickets within SLA timelines.
+  </li>
+
+  <li>
+    Performed remote troubleshooting using remote desktop tools.
+  </li>
+
+  <li>
+    Handled basic network issues including connectivity, VPN, and Wi-Fi troubleshooting.
+  </li>
+
+  <li>
+    Configured and supported Outlook, Office 365, and web-based applications.
+  </li>
+
+  <li>
+    Performed system updates, patches, and antivirus maintenance to ensure security.
+  </li>
+
+  <li>
+    Maintained documentation of issues, resolutions, and IT procedures.
+  </li>
+
+  <li>
+    Provided technical support in both Spanish and English to global end users.
+  </li>
 </ul>
 <h2></h2>
 <h2>Projects</h2>
