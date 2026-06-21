@@ -74,3 +74,14 @@ button:hover {
     display: block;
   }
 }
+a,
+a:link,
+a:visited,
+a:active {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #38bdf8;
+}
