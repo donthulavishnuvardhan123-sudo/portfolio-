@@ -7,7 +7,7 @@ function App() {
     <div>
       <h1>Hi, I'm Donthula Vishnu Vardhan 👋</h1>
 <img
-  src="/profile.jpg"
+  src="/portfolio/profile.jpg"
   alt="Donthula Vishnu Vardhan"
   width="180"
 />
@@ -79,7 +79,7 @@ resolved VPN and Office issues, and supported end users in a global environment.
     View Profile
   </a>
 </p>
-<a href="/Vishnu_Vardhan_Resume.pdf" download>
+<a href="/portfolio/Vishnu_Vardhan_Resume.pdf" download>
   <button>📄 Download Resume</button>
 </a>
     </div>
