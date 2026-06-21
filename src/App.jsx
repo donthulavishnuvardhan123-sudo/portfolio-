@@ -12,7 +12,7 @@ function App() {
   width="180"
 />
       <h2>Spanish Bilingual Technical Support Specialist</h2>
-      <p>I work as a Spanish Bilingual Technical Support Specialist at Tech Mahindra.</p>
+      <p>I an working as a Spanish Bilingual Technical Support Specialist at Tech Mahindra.</p>
 
       <p>I have experience in Active Directory, Office 365, VPN, and Service Desk Support.</p>
 <h2>About Me</h2>
@@ -89,7 +89,7 @@ Built a personal portfolio website using React and Vite featuring a professional
 downloadable resume, and contact information.
 </p>
 
-<p><strong>🖥️ IT Service Desk Lab</strong></p>
+<p><strong>🖥️ IT Service Desk </strong></p>
 <p>
 Practiced Active Directory user management, Office 365 troubleshooting,
 VPN configuration, and Service Desk support scenarios.
@@ -103,16 +103,14 @@ resolved VPN and Office issues, and supported end users in a global environment.
 <h2>Contact Me</h2>
 <p>
   📞 Mobile:
-  <a href="tel:+916302812406">
-    +91 63028 12406
-  </a>
+  <span className="underline-text">+91 63028 12406</span>
 </p>
 <p>📍 Hyderabad, India</p>
 <p>
   📧 Email:
-  <a href="mailto:donthulavishnuvardhan123@gmail.com">
+  <span className="underline-text">
     donthulavishnuvardhan123@gmail.com
-  </a>
+  </span>
 </p>
 <p>
   💼 LinkedIn:
@@ -122,10 +120,13 @@ resolved VPN and Office issues, and supported end users in a global environment.
     rel="noreferrer"
   >
     View Profile
-  </a>
-</p>
-<a href="/portfolio-/Vishnu_Vardhan_Resume.pdf" download>
-  <button>📄 Download Resume</button>
+<a
+  href="https://www.linkedin.com/in/your-link"
+  target="_blank"
+  rel="noreferrer"
+  className="underline-text"
+>
+  View Profile
 </a>
     </div>
   );

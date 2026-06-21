@@ -84,4 +84,9 @@ a:active {
 
 a:hover {
   color: #38bdf8;
+}.underline-text {
+  color: white;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
 }
