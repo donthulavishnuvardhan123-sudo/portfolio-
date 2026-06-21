@@ -62,6 +62,12 @@ Provided technical support in Spanish and English, managed user accounts,
 resolved VPN and Office issues, and supported end users in a global environment.
 </p>
 <h2>Contact Me</h2>
+<p>
+  📞 Mobile:
+  <a href="tel:+916302812406">
+    +91 63028 12406
+  </a>
+</p>
 <p>📍 Hyderabad, India</p>
 <p>
   📧 Email:
